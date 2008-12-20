@@ -22,7 +22,7 @@
 
 // This program is distributed under the terms of the
 // GNU General Public License.  A copy of this license
-// is availabe in the "GPL License" folder as gpl.txt.
+// is availabe in gpl.txt.
 
 #import <UIKit/UIKit.h>
 

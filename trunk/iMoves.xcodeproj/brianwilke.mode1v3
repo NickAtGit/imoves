@@ -330,7 +330,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>2F770AA50EFCEBA90006D9F3</string>
+										<string>2F770AD30EFCED780006D9F3</string>
 										<key>history</key>
 										<array>
 											<string>2F7F4C5B0ED51C6F000D1453</string>
@@ -340,22 +340,22 @@
 											<string>2F2481080EF750A50019D237</string>
 											<string>2F2260770EFCEA48000B939D</string>
 											<string>2F770A830EFCEBA90006D9F3</string>
-											<string>2F770A840EFCEBA90006D9F3</string>
-											<string>2F770A850EFCEBA90006D9F3</string>
-											<string>2F770A860EFCEBA90006D9F3</string>
-											<string>2F770A870EFCEBA90006D9F3</string>
-											<string>2F770A880EFCEBA90006D9F3</string>
-											<string>2F770A890EFCEBA90006D9F3</string>
-											<string>2F770A8A0EFCEBA90006D9F3</string>
-											<string>2F770A8B0EFCEBA90006D9F3</string>
-											<string>2F770A8C0EFCEBA90006D9F3</string>
-											<string>2F770A8D0EFCEBA90006D9F3</string>
-											<string>2F770A8E0EFCEBA90006D9F3</string>
-											<string>2F770A8F0EFCEBA90006D9F3</string>
-											<string>2F770A900EFCEBA90006D9F3</string>
-											<string>2F770A910EFCEBA90006D9F3</string>
-											<string>2F770A920EFCEBA90006D9F3</string>
-											<string>2F770A930EFCEBA90006D9F3</string>
+											<string>2F770AB30EFCED780006D9F3</string>
+											<string>2F770AB40EFCED780006D9F3</string>
+											<string>2F770AB50EFCED780006D9F3</string>
+											<string>2F770AB60EFCED780006D9F3</string>
+											<string>2F770AB70EFCED780006D9F3</string>
+											<string>2F770AB80EFCED780006D9F3</string>
+											<string>2F770AB90EFCED780006D9F3</string>
+											<string>2F770ABA0EFCED780006D9F3</string>
+											<string>2F770ABB0EFCED780006D9F3</string>
+											<string>2F770ABC0EFCED780006D9F3</string>
+											<string>2F770ABD0EFCED780006D9F3</string>
+											<string>2F770ABE0EFCED780006D9F3</string>
+											<string>2F770ABF0EFCED780006D9F3</string>
+											<string>2F770AC00EFCED780006D9F3</string>
+											<string>2F770AC10EFCED780006D9F3</string>
+											<string>2F770AC20EFCED780006D9F3</string>
 										</array>
 										<key>prevStack</key>
 										<array>
@@ -381,23 +381,23 @@
 											<string>2F36AC250EF0B3C30024D9F8</string>
 											<string>2F36AD170EF0CE7F0024D9F8</string>
 											<string>2F22608D0EFCEA48000B939D</string>
-											<string>2F770A940EFCEBA90006D9F3</string>
 											<string>2F770A950EFCEBA90006D9F3</string>
-											<string>2F770A960EFCEBA90006D9F3</string>
-											<string>2F770A970EFCEBA90006D9F3</string>
-											<string>2F770A980EFCEBA90006D9F3</string>
-											<string>2F770A990EFCEBA90006D9F3</string>
-											<string>2F770A9A0EFCEBA90006D9F3</string>
-											<string>2F770A9B0EFCEBA90006D9F3</string>
-											<string>2F770A9C0EFCEBA90006D9F3</string>
-											<string>2F770A9D0EFCEBA90006D9F3</string>
-											<string>2F770A9E0EFCEBA90006D9F3</string>
-											<string>2F770A9F0EFCEBA90006D9F3</string>
-											<string>2F770AA00EFCEBA90006D9F3</string>
-											<string>2F770AA10EFCEBA90006D9F3</string>
-											<string>2F770AA20EFCEBA90006D9F3</string>
-											<string>2F770AA30EFCEBA90006D9F3</string>
-											<string>2F770AA40EFCEBA90006D9F3</string>
+											<string>2F770AC30EFCED780006D9F3</string>
+											<string>2F770AC40EFCED780006D9F3</string>
+											<string>2F770AC50EFCED780006D9F3</string>
+											<string>2F770AC60EFCED780006D9F3</string>
+											<string>2F770AC70EFCED780006D9F3</string>
+											<string>2F770AC80EFCED780006D9F3</string>
+											<string>2F770AC90EFCED780006D9F3</string>
+											<string>2F770ACA0EFCED780006D9F3</string>
+											<string>2F770ACB0EFCED780006D9F3</string>
+											<string>2F770ACC0EFCED780006D9F3</string>
+											<string>2F770ACD0EFCED780006D9F3</string>
+											<string>2F770ACE0EFCED780006D9F3</string>
+											<string>2F770ACF0EFCED780006D9F3</string>
+											<string>2F770AD00EFCED780006D9F3</string>
+											<string>2F770AD10EFCED780006D9F3</string>
+											<string>2F770AD20EFCED780006D9F3</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -455,9 +455,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>2F770A700EFCEA860006D9F3</string>
+				<string>2F770AD40EFCED780006D9F3</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>2F770A710EFCEA860006D9F3</string>
+				<string>2F770AD50EFCED780006D9F3</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -591,7 +591,6 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>1CD10A99069EF8BA00B06720</string>
 		<string>/Users/brianwilke/Documents/CS677 HCI:VR/iMoves/iMoves.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
