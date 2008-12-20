@@ -24,6 +24,7 @@
 		2F36AD030EF0CD220024D9F8 /* PlayGesture.caf in Resources */ = {isa = PBXBuildFile; fileRef = 2F36ACF80EF0CD220024D9F8 /* PlayGesture.caf */; };
 		2F36AD040EF0CD220024D9F8 /* ScrollDown.caf in Resources */ = {isa = PBXBuildFile; fileRef = 2F36ACF90EF0CD220024D9F8 /* ScrollDown.caf */; };
 		2F36AD050EF0CD220024D9F8 /* TODO.caf in Resources */ = {isa = PBXBuildFile; fileRef = 2F36ACFA0EF0CD220024D9F8 /* TODO.caf */; };
+		2F770A820EFCEAF40006D9F3 /* gpl.txt in Resources */ = {isa = PBXBuildFile; fileRef = 2F770A810EFCEAF40006D9F3 /* gpl.txt */; };
 		2F7F4C200ED3E0DC000D1453 /* OpenGLES.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2F7F4C1F0ED3E0DC000D1453 /* OpenGLES.framework */; };
 		2F7F4C250ED3E145000D1453 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2F7F4C240ED3E145000D1453 /* CoreGraphics.framework */; };
 		2F7F4C310ED3E2FF000D1453 /* NavigationView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2F7F4C300ED3E2FF000D1453 /* NavigationView.m */; };
@@ -55,6 +56,7 @@
 		2F36ACF80EF0CD220024D9F8 /* PlayGesture.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = PlayGesture.caf; sourceTree = "<group>"; };
 		2F36ACF90EF0CD220024D9F8 /* ScrollDown.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = ScrollDown.caf; sourceTree = "<group>"; };
 		2F36ACFA0EF0CD220024D9F8 /* TODO.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = TODO.caf; sourceTree = "<group>"; };
+		2F770A810EFCEAF40006D9F3 /* gpl.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = gpl.txt; sourceTree = "<group>"; };
 		2F7F4C1F0ED3E0DC000D1453 /* OpenGLES.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGLES.framework; path = System/Library/Frameworks/OpenGLES.framework; sourceTree = SDKROOT; };
 		2F7F4C240ED3E145000D1453 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		2F7F4C2F0ED3E2FF000D1453 /* NavigationView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NavigationView.h; sourceTree = "<group>"; };
@@ -130,6 +132,7 @@
 				29B97317FDCFA39411CA2CEA /* Resources */,
 				29B97323FDCFA39411CA2CEA /* Frameworks */,
 				19C28FACFE9D520D11CA2CBB /* Products */,
+				2F770A800EFCEADE0006D9F3 /* GPL License */,
 			);
 			name = CustomTemplate;
 			sourceTree = "<group>";
@@ -181,6 +184,14 @@
 				2F36ACFA0EF0CD220024D9F8 /* TODO.caf */,
 			);
 			name = menu_audio_names;
+			sourceTree = "<group>";
+		};
+		2F770A800EFCEADE0006D9F3 /* GPL License */ = {
+			isa = PBXGroup;
+			children = (
+				2F770A810EFCEAF40006D9F3 /* gpl.txt */,
+			);
+			name = "GPL License";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -237,6 +248,7 @@
 				2F36AD030EF0CD220024D9F8 /* PlayGesture.caf in Resources */,
 				2F36AD040EF0CD220024D9F8 /* ScrollDown.caf in Resources */,
 				2F36AD050EF0CD220024D9F8 /* TODO.caf in Resources */,
+				2F770A820EFCEAF40006D9F3 /* gpl.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
