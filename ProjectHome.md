@@ -1,0 +1,1 @@
+A system utilizing the accelerometer on the iPhone to recognize gestures.  The goal is to allow the visually impaired to operate the iPhone with gestures (proprioception instead of sight), and perhaps help regular people driving, etc. better use the device.
